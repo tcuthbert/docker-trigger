@@ -25,6 +25,7 @@
         "loginPW": "cisco", 
         "lifecycleStatus": "INSTALLED", 
         "manufacturer": "CISCO", 
+        "operatingSystem": "NXOS", 
         "layer3": "1", 
         "layer2": "1", 
         "room": "CR10", 
